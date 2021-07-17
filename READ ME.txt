@@ -1,0 +1,7 @@
+
+The index file/ base file is App.js
+
+The other files that make up the app are in the Components folder.
+
+The 'android' and 'ios' folders are simply for modifying the native code.
+

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "626140198646",
+    "firebase_url": "https://computer-science-ia-71278.firebaseio.com",
+    "project_id": "computer-science-ia-71278",
+    "storage_bucket": "computer-science-ia-71278.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626140198646:android:18b673f4c70235e7ba9ed7",
+        "android_client_info": {
+          "package_name": "com.ia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626140198646-6qstcb7hqhpvterj99v1nuj6rucajnj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSeoEDVgLIN-NNCzxH9XRYqPiwFPSn2z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626140198646-6qstcb7hqhpvterj99v1nuj6rucajnj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
