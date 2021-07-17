@@ -12,9 +12,17 @@ quotes from the web.
 npm install
 ```
 ## Build for android
+
+1. Start the metro server 
+```
+npx start
+```
+2. Build the android app using an emulator from Android Studio
 ```
 npx react-native run-android
-```
+``` 
+
+
 
 ## Build for ios
 
